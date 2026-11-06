@@ -4,21 +4,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Surya%20S-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-s-b05907337/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Portfolio-0A66C2?style=flat-square&logo=vercel&logoColor=white)](https://surya-vlsi.vercel.app/)
 
-> *Passionate about humanity's future. Making that great, and engineering technology for the future co-existence of humans and intelligent systems.*
+✶ Passionate about humanity's future. Making that great. And humans future co-existance with Technology.
 
 ---
 
 ## About Me
 
-I am an engineer and builder working at the intersection of computing systems, hardware architecture, and artificial intelligence. Driven by first-principles thinking, I explore how foundational computation, silicon design, and intelligent software converge to solve hard problems and expand human capability.
+I build hardware and software from first principles. Most of my work revolves around computing—designing silicon architectures, processor accelerators, and exploring AI systems. I care about understanding systems from the bottom up and working on hard engineering problems that push technology forward.
 
-Rather than being confined to a single layer of technology, I focus on understanding and building complex systems end-to-end—from custom silicon and compute hardware to autonomous, intelligent systems.
-
-For detailed architecture breakdowns, silicon layouts, and technical implementations of my work, visit my [portfolio](https://surya-vlsi.vercel.app/).
-
----
-
-## Education
-
-**Vellore Institute of Technology (VIT), Chennai**  
-*B.Tech in Electronics and Communication Engineering (2024 – 2028)*
+You can explore my projects and hardware signoffs on my [portfolio](https://surya-vlsi.vercel.app/).
