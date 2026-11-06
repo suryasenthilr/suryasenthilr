@@ -12,4 +12,4 @@
 
 I build hardware and software from first principles. Most of my work revolves around computing—designing silicon architectures, processor accelerators, and exploring AI systems. I care about understanding systems from the bottom up and working on hard engineering problems that push technology forward.
 
-You can explore my projects and hardware signoffs on my [portfolio](https://surya-vlsi.vercel.app/)
+You can explore my projects and hardware signoffs on my [portfolio](https://surya-vlsi.vercel.app/).
